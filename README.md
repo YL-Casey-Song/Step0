@@ -1,4 +1,4 @@
 # Step0
 Restart
 
-The first step is to evulate how DQN can work on Resource Management using simulation.
+The first step is to evaluate how DQN can work on Resource Management using simulation.
